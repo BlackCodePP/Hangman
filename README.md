@@ -1,4 +1,4 @@
-# Ahorcado-Consola
+# Hangman
 
 Ahorcado de deportes
 
